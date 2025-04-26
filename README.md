@@ -13,10 +13,9 @@ This project involved analyzing credit card transaction data to uncover revenue 
 <br>
 **Excel:** Assisted in data cleaning, preliminary analysis, and report structuring.
 <br> <br>
-
 **Deliverable:** <br>
-An interactive Power BI dashboard with filters for card type, demographics, and transaction methods, supported by SQL queries for data extraction and Excel for supplementary analysis.
-<br>
+An interactive **Power BI dashboard** with filters for card type, demographics, and transaction methods, supported by **SQL queries** for data extraction and Excel for supplementary analysis.
+<br><br>
 **Reports:** <br>
 [Credit Card Transaction Report](https://github.com/jeevanshetty2002/Credit_card_Financial_Report/blob/main/Credit%20Card%20Transaction%20Report.pdf)
 <br>
